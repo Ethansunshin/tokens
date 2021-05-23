@@ -1,0 +1,11 @@
+{
+ "name": "HAPPY",
+ "website": "https://happy.fi",
+ "description": "HAPPY is a token on Huobi Eco(HECO) Chain boasting a number of impressive features.",
+ "explorer": "https://hecoinfo.com/token/0x26A939808C6C4c1913f1dc8B26DB6cB9E53e5b3B",
+ "type": "HECO",
+ "symbol": "HAPPY",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x26A939808C6C4c1913f1dc8B26DB6cB9E53e5b3B"
+}
